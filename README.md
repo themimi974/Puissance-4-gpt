@@ -22,8 +22,7 @@ This is a simple, console-based Connect Four (Puissance 4) game implemented in P
    ```
 4. Run the game:
    ```bash
-   python your_script_name.py
+   python puissance4gpt.py
    ```
-   (Replace `your_script_name.py` with the actual filename if different.)
 
 Enjoy the game and have fun!
